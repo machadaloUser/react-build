@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.39629526.css",
-    "main.js": "/static/js/main.6ccfb6c8.js",
+    "main.js": "/static/js/main.633888a1.js",
     "static/js/23.7f1b0a1d.chunk.js": "/static/js/23.7f1b0a1d.chunk.js",
     "static/js/728.25fd62fb.chunk.js": "/static/js/728.25fd62fb.chunk.js",
     "static/js/781.d39f4eb8.chunk.js": "/static/js/781.d39f4eb8.chunk.js",
     "static/js/5.699c780c.chunk.js": "/static/js/5.699c780c.chunk.js",
     "static/js/806.1a200922.chunk.js": "/static/js/806.1a200922.chunk.js",
     "static/media/chat-image.png": "/static/media/chat-image.52e5c8e9b60c9a862d14.png",
-    "static/media/machadalo-logo.png": "/static/media/machadalo-logo.920722bf1b76d811bbdb.png",
     "static/media/loading.gif": "/static/media/loading.ba4d3af194f5cf2f71bb.gif",
     "static/media/supplier_upload.xlsx": "/static/media/supplier_upload.59dc4aa864f3263e580a.xlsx",
+    "static/media/synergytop-logo.webp": "/static/media/synergytop-logo.64ee737cb560685f52f2.webp",
     "index.html": "/index.html",
     "main.39629526.css.map": "/static/css/main.39629526.css.map",
-    "main.6ccfb6c8.js.map": "/static/js/main.6ccfb6c8.js.map",
+    "main.633888a1.js.map": "/static/js/main.633888a1.js.map",
     "23.7f1b0a1d.chunk.js.map": "/static/js/23.7f1b0a1d.chunk.js.map",
     "728.25fd62fb.chunk.js.map": "/static/js/728.25fd62fb.chunk.js.map",
     "781.d39f4eb8.chunk.js.map": "/static/js/781.d39f4eb8.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.39629526.css",
-    "static/js/main.6ccfb6c8.js"
+    "static/js/main.633888a1.js"
   ]
 }
