@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://test.synergytop.com/static/css/main.39629526.css",
-    "main.js": "https://test.synergytop.com/static/js/main.c83d7715.js",
+    "main.js": "https://test.synergytop.com/static/js/main.017e22b8.js",
     "static/js/23.7f1b0a1d.chunk.js": "https://test.synergytop.com/static/js/23.7f1b0a1d.chunk.js",
-    "static/js/728.616cd4ca.chunk.js": "https://test.synergytop.com/static/js/728.616cd4ca.chunk.js",
-    "static/js/781.51956d60.chunk.js": "https://test.synergytop.com/static/js/781.51956d60.chunk.js",
+    "static/js/728.73634702.chunk.js": "https://test.synergytop.com/static/js/728.73634702.chunk.js",
+    "static/js/781.8aa85b2a.chunk.js": "https://test.synergytop.com/static/js/781.8aa85b2a.chunk.js",
     "static/js/5.699c780c.chunk.js": "https://test.synergytop.com/static/js/5.699c780c.chunk.js",
     "static/js/806.1a200922.chunk.js": "https://test.synergytop.com/static/js/806.1a200922.chunk.js",
     "static/media/chat-image.png": "https://test.synergytop.com/static/media/chat-image.52e5c8e9b60c9a862d14.png",
@@ -13,15 +13,15 @@
     "static/media/synergytop-logo.webp": "https://test.synergytop.com/static/media/synergytop-logo.64ee737cb560685f52f2.webp",
     "index.html": "https://test.synergytop.com/index.html",
     "main.39629526.css.map": "https://test.synergytop.com/static/css/main.39629526.css.map",
-    "main.c83d7715.js.map": "https://test.synergytop.com/static/js/main.c83d7715.js.map",
+    "main.017e22b8.js.map": "https://test.synergytop.com/static/js/main.017e22b8.js.map",
     "23.7f1b0a1d.chunk.js.map": "https://test.synergytop.com/static/js/23.7f1b0a1d.chunk.js.map",
-    "728.616cd4ca.chunk.js.map": "https://test.synergytop.com/static/js/728.616cd4ca.chunk.js.map",
-    "781.51956d60.chunk.js.map": "https://test.synergytop.com/static/js/781.51956d60.chunk.js.map",
+    "728.73634702.chunk.js.map": "https://test.synergytop.com/static/js/728.73634702.chunk.js.map",
+    "781.8aa85b2a.chunk.js.map": "https://test.synergytop.com/static/js/781.8aa85b2a.chunk.js.map",
     "5.699c780c.chunk.js.map": "https://test.synergytop.com/static/js/5.699c780c.chunk.js.map",
     "806.1a200922.chunk.js.map": "https://test.synergytop.com/static/js/806.1a200922.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39629526.css",
-    "static/js/main.c83d7715.js"
+    "static/js/main.017e22b8.js"
   ]
 }
