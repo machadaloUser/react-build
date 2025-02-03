@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://test.synergytop.com/static/css/main.39629526.css",
-    "main.js": "https://test.synergytop.com/static/js/main.56d1307b.js",
+    "main.css": "https://test.synergytop.com/static/css/main.4b0be976.css",
+    "main.js": "https://test.synergytop.com/static/js/main.4909f3b5.js",
     "static/js/23.7f1b0a1d.chunk.js": "https://test.synergytop.com/static/js/23.7f1b0a1d.chunk.js",
     "static/js/728.73634702.chunk.js": "https://test.synergytop.com/static/js/728.73634702.chunk.js",
     "static/js/821.b38b2d7a.chunk.js": "https://test.synergytop.com/static/js/821.b38b2d7a.chunk.js",
@@ -14,8 +14,8 @@
     "static/media/supplier_upload.xlsx": "https://test.synergytop.com/static/media/supplier_upload.59dc4aa864f3263e580a.xlsx",
     "static/media/synergytop-logo.webp": "https://test.synergytop.com/static/media/synergytop-logo.64ee737cb560685f52f2.webp",
     "index.html": "https://test.synergytop.com/index.html",
-    "main.39629526.css.map": "https://test.synergytop.com/static/css/main.39629526.css.map",
-    "main.56d1307b.js.map": "https://test.synergytop.com/static/js/main.56d1307b.js.map",
+    "main.4b0be976.css.map": "https://test.synergytop.com/static/css/main.4b0be976.css.map",
+    "main.4909f3b5.js.map": "https://test.synergytop.com/static/js/main.4909f3b5.js.map",
     "23.7f1b0a1d.chunk.js.map": "https://test.synergytop.com/static/js/23.7f1b0a1d.chunk.js.map",
     "728.73634702.chunk.js.map": "https://test.synergytop.com/static/js/728.73634702.chunk.js.map",
     "821.b38b2d7a.chunk.js.map": "https://test.synergytop.com/static/js/821.b38b2d7a.chunk.js.map",
@@ -25,7 +25,7 @@
     "806.1a200922.chunk.js.map": "https://test.synergytop.com/static/js/806.1a200922.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39629526.css",
-    "static/js/main.56d1307b.js"
+    "static/css/main.4b0be976.css",
+    "static/js/main.4909f3b5.js"
   ]
 }
