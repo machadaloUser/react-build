@@ -33,7 +33,6 @@ jobs:
         --document-name "AWS-RunShellScript" \
         --comment "Pull as server" \
         --parameters 'commands=[
-          "touch testing.html",
           "cd /home/ubuntu/machadalo/react-build",
           "git pull"
         ]' \
