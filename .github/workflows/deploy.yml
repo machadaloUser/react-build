@@ -33,7 +33,7 @@ jobs:
         --document-name "AWS-RunShellScript" \
         --comment "Pull as server" \
         --parameters 'commands=[
-          "cd /home/ubuntu/machadalo/react-build",
+          "cd /var/www/html",
           "git pull"
         ]' \
         --region ap-south-1
