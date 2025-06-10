@@ -1,0 +1,39 @@
+name: Deploy to EC2 via SSM
+
+on:
+  push:
+    branches: [md-platform]  # or your deployment branch
+
+jobs:
+  deploy:
+    name: Deploy App
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_REGION: ap-south-1  # change to your region
+      ECR_REPO: source
+      IMAGE_TAG: latest
+      INSTANCE_ID: i-0caee0e4a3aa1d3ea
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v2
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ env.AWS_REGION }}
+
+    - name: Deploy using SSM
+      run: |
+        aws ssm send-command \
+        --instance-ids "i-0caee0e4a3aa1d3ea" \
+        --document-name "AWS-RunShellScript" \
+        --comment "Pull as server" \
+        --parameters 'commands=[
+          "cd /home/ubuntu/machadalo/react-build",
+          "git pull"
+        ]' \
+        --region ap-south-1
