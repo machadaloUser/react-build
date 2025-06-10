@@ -2,7 +2,7 @@ name: Deploy to EC2 via SSM
 
 on:
   push:
-    branches: [md-pre-prod, md-platform]  # or your deployment branch
+    branches: [md-pre-prod]  # or your deployment branch
 
 jobs:
   deploy:
