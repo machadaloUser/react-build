@@ -18,6 +18,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            sudo su
-            cd /home/ubuntu/machadalo/react-build
-            git pull
+            sudo su && cd /home/ubuntu/machadalo/react-build && git pull
