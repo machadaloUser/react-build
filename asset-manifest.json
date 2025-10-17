@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://test.synergytop.com/static/css/main.46e63bce.css",
-    "main.js": "https://test.synergytop.com/static/js/main.5c27022b.js",
+    "main.js": "https://test.synergytop.com/static/js/main.89469b7c.js",
     "static/js/865.e93b6cf6.chunk.js": "https://test.synergytop.com/static/js/865.e93b6cf6.chunk.js",
     "static/js/439.d0743c2e.chunk.js": "https://test.synergytop.com/static/js/439.d0743c2e.chunk.js",
     "static/js/23.7b464462.chunk.js": "https://test.synergytop.com/static/js/23.7b464462.chunk.js",
@@ -13,12 +13,13 @@
     "static/js/5.9dd7a579.chunk.js": "https://test.synergytop.com/static/js/5.9dd7a579.chunk.js",
     "static/js/806.3a9b5bf0.chunk.js": "https://test.synergytop.com/static/js/806.3a9b5bf0.chunk.js",
     "static/media/chat-image.png": "https://test.synergytop.com/static/media/chat-image.52e5c8e9b60c9a862d14.png",
+    "static/media/machadalo-logo.png": "https://test.synergytop.com/static/media/machadalo-logo.920722bf1b76d811bbdb.png",
     "static/media/loading.gif": "https://test.synergytop.com/static/media/loading.ba4d3af194f5cf2f71bb.gif",
     "static/media/supplier_upload.xlsx": "https://test.synergytop.com/static/media/supplier_upload.59dc4aa864f3263e580a.xlsx",
     "static/media/synergytop-logo.webp": "https://test.synergytop.com/static/media/synergytop-logo.64ee737cb560685f52f2.webp",
     "index.html": "https://test.synergytop.com/index.html",
     "main.46e63bce.css.map": "https://test.synergytop.com/static/css/main.46e63bce.css.map",
-    "main.5c27022b.js.map": "https://test.synergytop.com/static/js/main.5c27022b.js.map",
+    "main.89469b7c.js.map": "https://test.synergytop.com/static/js/main.89469b7c.js.map",
     "865.e93b6cf6.chunk.js.map": "https://test.synergytop.com/static/js/865.e93b6cf6.chunk.js.map",
     "439.d0743c2e.chunk.js.map": "https://test.synergytop.com/static/js/439.d0743c2e.chunk.js.map",
     "23.7b464462.chunk.js.map": "https://test.synergytop.com/static/js/23.7b464462.chunk.js.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.46e63bce.css",
-    "static/js/main.5c27022b.js"
+    "static/js/main.89469b7c.js"
   ]
 }
