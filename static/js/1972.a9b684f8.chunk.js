@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmachadalo=self.webpackChunkmachadalo||[]).push([[1972],{11972(a,e,c){c.d(e,{createPieServices:()=>s.f});var s=c(94960);c(76472)}}]);
