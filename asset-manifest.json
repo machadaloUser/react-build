@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://dev.machadalo.com/static/css/main.39a12071.css",
-    "main.js": "https://dev.machadalo.com/static/js/main.dc1a727a.js",
+    "main.js": "https://dev.machadalo.com/static/js/main.1c9885d8.js",
     "static/js/8023.53d785bc.chunk.js": "https://dev.machadalo.com/static/js/8023.53d785bc.chunk.js",
     "static/js/8455.a2848c03.chunk.js": "https://dev.machadalo.com/static/js/8455.a2848c03.chunk.js",
     "static/js/4728.363a0dd9.chunk.js": "https://dev.machadalo.com/static/js/4728.363a0dd9.chunk.js",
@@ -57,6 +57,7 @@
     "static/js/2996.33f4c934.chunk.js": "https://dev.machadalo.com/static/js/2996.33f4c934.chunk.js",
     "static/media/chat-image.png": "https://dev.machadalo.com/static/media/chat-image.52e5c8e9b60c9a862d14.png",
     "static/media/machadalo-logo.png": "https://dev.machadalo.com/static/media/machadalo-logo.920722bf1b76d811bbdb.png",
+    "static/media/noti.mp3": "https://dev.machadalo.com/static/media/noti.627a368a9dde5e2fafdd.mp3",
     "static/media/KaTeX_AMS-Regular.ttf": "https://dev.machadalo.com/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "https://dev.machadalo.com/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "https://dev.machadalo.com/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -86,7 +87,6 @@
     "static/media/KaTeX_Script-Regular.ttf": "https://dev.machadalo.com/static/media/KaTeX_Script-Regular.fc9ba5249878cd8f8d88.ttf",
     "static/media/KaTeX_Math-Italic.woff2": "https://dev.machadalo.com/static/media/KaTeX_Math-Italic.6d3d25f4820d0da8f01f.woff2",
     "static/media/KaTeX_Math-BoldItalic.woff2": "https://dev.machadalo.com/static/media/KaTeX_Math-BoldItalic.dcbcbd93bac0470b462d.woff2",
-    "static/media/noti.mp3": "https://dev.machadalo.com/static/media/noti.e1983c928c9295684afc.mp3",
     "static/media/KaTeX_Typewriter-Regular.woff": "https://dev.machadalo.com/static/media/KaTeX_Typewriter-Regular.4c6b94fd1d07f8beff7c.woff",
     "static/media/KaTeX_SansSerif-Bold.woff": "https://dev.machadalo.com/static/media/KaTeX_SansSerif-Bold.b9cd458ac6d5889ff9c3.woff",
     "static/media/KaTeX_SansSerif-Italic.woff": "https://dev.machadalo.com/static/media/KaTeX_SansSerif-Italic.8d593cfaa96238d5e2f8.woff",
@@ -123,7 +123,7 @@
     "static/media/KaTeX_Size3-Regular.woff2": "https://dev.machadalo.com/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "https://dev.machadalo.com/index.html",
     "main.39a12071.css.map": "https://dev.machadalo.com/static/css/main.39a12071.css.map",
-    "main.dc1a727a.js.map": "https://dev.machadalo.com/static/js/main.dc1a727a.js.map",
+    "main.1c9885d8.js.map": "https://dev.machadalo.com/static/js/main.1c9885d8.js.map",
     "8023.53d785bc.chunk.js.map": "https://dev.machadalo.com/static/js/8023.53d785bc.chunk.js.map",
     "8455.a2848c03.chunk.js.map": "https://dev.machadalo.com/static/js/8455.a2848c03.chunk.js.map",
     "4728.363a0dd9.chunk.js.map": "https://dev.machadalo.com/static/js/4728.363a0dd9.chunk.js.map",
@@ -173,6 +173,6 @@
   },
   "entrypoints": [
     "static/css/main.39a12071.css",
-    "static/js/main.dc1a727a.js"
+    "static/js/main.1c9885d8.js"
   ]
 }
