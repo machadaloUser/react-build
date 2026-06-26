@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://platform.machadalo.com/static/css/main.9db71a6f.css",
-    "main.js": "https://platform.machadalo.com/static/js/main.289e4f8c.js",
+    "main.js": "https://platform.machadalo.com/static/js/main.e7345d70.js",
     "static/js/8023.53d785bc.chunk.js": "https://platform.machadalo.com/static/js/8023.53d785bc.chunk.js",
     "static/js/8455.a2848c03.chunk.js": "https://platform.machadalo.com/static/js/8455.a2848c03.chunk.js",
     "static/js/4728.363a0dd9.chunk.js": "https://platform.machadalo.com/static/js/4728.363a0dd9.chunk.js",
@@ -123,7 +123,7 @@
     "static/media/KaTeX_Size3-Regular.woff2": "https://platform.machadalo.com/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "https://platform.machadalo.com/index.html",
     "main.9db71a6f.css.map": "https://platform.machadalo.com/static/css/main.9db71a6f.css.map",
-    "main.289e4f8c.js.map": "https://platform.machadalo.com/static/js/main.289e4f8c.js.map",
+    "main.e7345d70.js.map": "https://platform.machadalo.com/static/js/main.e7345d70.js.map",
     "8023.53d785bc.chunk.js.map": "https://platform.machadalo.com/static/js/8023.53d785bc.chunk.js.map",
     "8455.a2848c03.chunk.js.map": "https://platform.machadalo.com/static/js/8455.a2848c03.chunk.js.map",
     "4728.363a0dd9.chunk.js.map": "https://platform.machadalo.com/static/js/4728.363a0dd9.chunk.js.map",
@@ -173,6 +173,6 @@
   },
   "entrypoints": [
     "static/css/main.9db71a6f.css",
-    "static/js/main.289e4f8c.js"
+    "static/js/main.e7345d70.js"
   ]
 }
