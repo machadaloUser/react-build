@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmachadalo=self.webpackChunkmachadalo||[]).push([[2025],{72025(a,e,c){c.d(e,{createInfoServices:()=>s.v});var s=c(10215);c(67391)}}]);
