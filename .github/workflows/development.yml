@@ -3,12 +3,12 @@ name: Build and Deploy React App
 on:
   push:
     branches:
-      - st-development
+      - md-development
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment: test
+    environment: dev
     steps:
       - name: Cleanup old files on server
         uses: appleboy/ssh-action@v0.1.10
