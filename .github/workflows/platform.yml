@@ -1,3 +1,4 @@
+# .github/workflows/platform.yml
 name: Deploy to EC2 via SSM
 
 on:
